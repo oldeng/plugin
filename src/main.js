@@ -5,11 +5,6 @@ import store from './store'
 
 Vue.config.productionTip = false
 
-import { Button } from 'vant';
-import 'vant/lib/index.css'
-
-Vue.use(Button);
-
 new Vue({
   router,
   store,

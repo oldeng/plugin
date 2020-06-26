@@ -1,11 +1,11 @@
-import VComment from './v-comment/index.vue';
+import Plugin from './src/index.vue';
 
 const components = [
-  VComment
+  Plugin
 ]
 
-export {
-  VComment
+export const  {
+  Plugin: Plugin
 }
 
 const install = function(Vue) {
