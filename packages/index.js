@@ -1,11 +1,11 @@
-import Plugin from './src/index.vue';
+import PlguginName from './src/index.vue';
 
 const components = [
-  Plugin
+  PlguginName
 ]
 
-export const  {
-  Plugin: Plugin
+export  {
+  PlguginName
 }
 
 const install = function(Vue) {
