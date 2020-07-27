@@ -16,8 +16,6 @@ h1 {
   margin: 0;
 }
 .container {
-  width: 375px;
-  height: 812px;
   margin: 0 auto;
   overflow: auto;
 }
